@@ -1,2 +1,2 @@
 # KotlinProgramming
-Kotlin programming course
+Kotlin programming course.
